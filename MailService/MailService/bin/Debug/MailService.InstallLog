@@ -1,0 +1,185 @@
+﻿'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security, State.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService hizmeti yükleniyor...
+MailService hizmeti başarıyla yüklendi.
+Application günlüğünde MailService EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService hizmeti yükleniyor...
+Application günlüğünde MailService EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService hizmeti yükleniyor...
+Application günlüğünde MailService EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService hizmeti yükleniyor...
+Application günlüğünde MailService EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService2 hizmeti yükleniyor...
+MailService2 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService2 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService3 hizmeti yükleniyor...
+MailService3 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService3 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService4 hizmeti yükleniyor...
+MailService4 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService4 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService5 hizmeti yükleniyor...
+MailService5 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService5 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService6 hizmeti yükleniyor...
+MailService6 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService6 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe
+MailService7 hizmeti yükleniyor...
+MailService7 hizmeti başarıyla yüklendi.
+Application günlüğünde MailService7 EventLog kaynağı oluşturuluyor...
+'C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.InstallLog
+   assemblypath = C:\Users\muyen\source\repos\MailService\MailService\bin\Debug\MailService.exe

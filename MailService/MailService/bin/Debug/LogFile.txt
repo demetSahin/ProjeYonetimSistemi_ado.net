@@ -1,0 +1,9 @@
+22.01.2023 17:33:52: Daily Reporting service started
+22.01.2023 18:03:28: Daily Reporting service started
+22.01.2023 18:27:00: Daily Reporting service started
+22.01.2023 18:29:06: Daily Reporting service stopped
+22.01.2023 18:29:34: Daily Reporting service started
+22.01.2023 18:38:40: Daily Reporting service started
+22.01.2023 18:49:31: Daily Reporting service stopped
+22.01.2023 18:50:02: Daily Reporting service started
+25.01.2023 23:17:24: Daily Reporting service stopped
