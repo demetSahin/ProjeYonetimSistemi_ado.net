@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pysContextMyContextModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Kisis">
+      <EntityTypeMapping TypeName="pys.Context.MyContextModel.Kisis">
+        <MappingFragment StoreEntitySet="Kisis">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="adi" ColumnName="adi" />
+          <ScalarProperty Name="soyadi" ColumnName="soyadi" />
+          <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+          <ScalarProperty Name="eposta" ColumnName="eposta" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="dogumTarihi" ColumnName="dogumTarihi" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="isTecrubesi" ColumnName="isTecrubesi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
